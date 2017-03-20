@@ -1,0 +1,35 @@
+@media (min-width:768px){
+	.header,.content{width:960px;margin: 0 auto;}
+	.paddingtop20{padding-top:20px; }
+	.nav{width: 100%;}
+	.navbar-default{background-color: #fff;border-color: #fff;}
+	.nav li{width:14%;float: left;/*font-size:16px;line-height:30px;font-weight:bold; font-family:'Microsoft Yahei', 'SimHei';*/font:bold 16px/30px 'Microsoft Yahei', 'SimHei';text-align: center;color: #898989;}
+}
+.padding0{padding-left: 0;padding-right: 0;}
+.padding0 .row{margin-left: 0;margin-right: 0;}
+.padding0 .col-xs-1, .padding0 .col-sm-1, .padding0 .col-md-1, .padding0 .col-lg-1, .padding0 .col-xs-2, .padding0 .col-sm-2, .padding0 .col-md-2, .padding0 .col-lg-2, .padding0 .col-xs-3, .padding0 .col-sm-3, .padding0 .col-md-3, .padding0 .col-lg-3, .padding0 .col-xs-4, .padding0 .col-sm-4, .padding0 .col-md-4, .padding0 .col-lg-4, .padding0 .col-xs-5, .padding0 .col-sm-5, .padding0 .col-md-5, .padding0 .col-lg-5, .padding0 .col-xs-6, .padding0 .col-sm-6, .padding0 .col-md-6, .padding0 .col-lg-6, .padding0 .col-xs-7, .padding0 .col-sm-7, .padding0 .col-md-7, .padding0 .col-lg-7, .padding0 .col-xs-8, .padding0 .col-sm-8, .padding0 .col-md-8, .padding0 .col-lg-8, .padding0 .col-xs-9, .padding0 .col-sm-9, .padding0 .col-md-9, .padding0 .col-lg-9, .padding0 .col-xs-10, .padding0 .col-sm-10, .padding0 .col-md-10, .padding0 .col-lg-10, .padding0 .col-xs-11, .padding0 .col-sm-11, .padding0 .col-md-11, .padding0 .col-lg-11, .padding0 .col-xs-12, .padding0 .col-sm-12, .padding0 .col-md-12, .padding0 .col-lg-12{padding-left: 0;padding-right: 0;}
+.paddingright10{padding-left: 0px;padding-right: 10px;}
+.paddingright10 .row{margin-left: 0px;margin-right: -10px;}
+.paddingright10 .col-xs-1, .paddingright10 .col-sm-1, .paddingright10 .col-md-1, .paddingright10 .col-lg-1, .paddingright10 .col-xs-2, .paddingright10 .col-sm-2, .paddingright10 .col-md-2, .paddingright10 .col-lg-2, .paddingright10 .col-xs-3, .paddingright10 .col-sm-3, .paddingright10 .col-md-3, .paddingright10 .col-lg-3, .paddingright10 .col-xs-4, .paddingright10 .col-sm-4, .paddingright10 .col-md-4, .paddingright10 .col-lg-4, .paddingright10 .col-xs-5, .paddingright10 .col-sm-5, .paddingright10 .col-md-5, .paddingright10 .col-lg-5, .paddingright10 .col-xs-6, .paddingright10 .col-sm-6, .paddingright10 .col-md-6, .paddingright10 .col-lg-6, .paddingright10 .col-xs-7, .paddingright10 .col-sm-7, .paddingright10 .col-md-7, .paddingright10 .col-lg-7, .paddingright10 .col-xs-8, .paddingright10 .col-sm-8, .paddingright10 .col-md-8, .paddingright10 .col-lg-8, .paddingright10 .col-xs-9, .paddingright10 .col-sm-9, .paddingright10 .col-md-9, .paddingright10 .col-lg-9, .paddingright10 .col-xs-10, .paddingright10 .col-sm-10, .paddingright10 .col-md-10, .paddingright10 .col-lg-10, .paddingright10 .col-xs-11, .paddingright10 .col-sm-11, .paddingright10 .col-md-11, .paddingright10 .col-lg-11, .paddingright10 .col-xs-12, .paddingright10 .col-sm-12, .paddingright10 .col-md-12, .paddingright10 .col-lg-12{padding-left: 0px;padding-right: 10px;}
+.paddingright10 .nopadding.col-xs-1, .paddingright10 .nopadding.col-sm-1, .paddingright10 .nopadding.col-md-1, .paddingright10 .nopadding.col-lg-1, .paddingright10 .nopadding.col-xs-2, .paddingright10 .nopadding.col-sm-2, .paddingright10 .nopadding.col-md-2, .paddingright10 .nopadding.col-lg-2, .paddingright10 .nopadding.col-xs-3, .paddingright10 .nopadding.col-sm-3, .paddingright10 .nopadding.col-md-3, .paddingright10 .nopadding.col-lg-3, .paddingright10 .nopadding.col-xs-4, .paddingright10 .nopadding.col-sm-4, .paddingright10 .nopadding.col-md-4, .paddingright10 .nopadding.col-lg-4, .paddingright10 .nopadding.col-xs-5, .paddingright10 .nopadding.col-sm-5, .paddingright10 .nopadding.col-md-5, .paddingright10 .nopadding.col-lg-5, .paddingright10 .nopadding.col-xs-6, .paddingright10 .nopadding.col-sm-6, .paddingright10 .nopadding.col-md-6, .paddingright10 .nopadding.col-lg-6, .paddingright10 .nopadding.col-xs-7, .paddingright10 .nopadding.col-sm-7, .paddingright10 .nopadding.col-md-7, .paddingright10 .nopadding.col-lg-7, .paddingright10 .nopadding.col-xs-8, .paddingright10 .nopadding.col-sm-8, .paddingright10 .nopadding.col-md-8, .paddingright10 .nopadding.col-lg-8, .paddingright10 .nopadding.col-xs-9, .paddingright10 .nopadding.col-sm-9, .paddingright10 .nopadding.col-md-9, .paddingright10 .nopadding.col-lg-9, .paddingright10 .nopadding.col-xs-10, .paddingright10 .nopadding.col-sm-10, .paddingright10 .nopadding.col-md-10, .paddingright10 .nopadding.col-lg-10, .paddingright10 .nopadding.col-xs-11, .paddingright10 .nopadding.col-sm-11, .paddingright10 .nopadding.col-md-11, .paddingright10 .nopadding.col-lg-11, .paddingright10 .nopadding.col-xs-12, .paddingright10 .nopadding.col-sm-12, .paddingright10 .nopadding.col-md-12, .paddingright10 .nopadding.col-lg-12{padding-left: 0px;padding-right: 0px;}
+.paddingbottom10{padding-bottom: 10px;}
+.slider .itembox{width: 100%;margin-bottom: 0;}
+.slider .itembox .item{display: none;width: 100%;}
+/*.slider ul li img{width: 100%;}*/
+.slider .itembox .item.current{display: block;}
+.slider .dot-wraper{position: absolute;right: 10px; bottom: 10px;}
+.slider .dot-wraper a{width: 15px;height: 15px;display: block;border:1px solid #fff;border-radius: 100%;float: left;background: #fff;margin-right: 10px;}
+.slider .dot-wraper a.current{border:1px solid blue;background: blue;}
+.list{overflow: hidden;width: 100%;position: relative;border:1px solid #ccc;margin: 10px 0 ;}
+.list .itembox{position: absolute;left: 0}
+.list .itembox .item{float: left;margin-right: 10px;position: relative;}
+.list .itembox .item .title{position: absolute;bottom: 0;left: 0;width: 100%;text-align: center;background-color: rgba(255,255,255,0.8);line-height: 24px;}
+.list-wrapper{position: relative;}
+.li_title{position: absolute;left: -39px;top: 0}
+.btn span{position: absolute;left: 0;font-size: 35px;top: 50%;margin-top: -20px;}
+.btn span.right{left:auto;right: 10px;}
+.gray{color: gray;}
+.footer{text-align: center;line-height: 24px;}
+.bge9e8e7{background-color: #e9e8e7;padding: 10px}
+.full{width: 100%;}
+.border{border:1px solid #ccc;padding: 10px;}

@@ -1,0 +1,47 @@
+/*global*/
+html,body,ul,li,dl,dt,dd,p{margin: 0;padding: 0;font-family: 'Microsoft Yahei','SimHei','Arial'}
+img{border:none;}
+.floatleft{float: left;}
+.floatright{float: right;}
+li{list-style: none;}
+a{text-decoration: none;}
+a:hover{text-decoration: none;}
+.clearfix:before,.clearfix:after{ 
+    content:" "; 
+    display:table; 
+} 
+.clearfix:after{clear:both;} 
+.clearfix{ 
+    *zoom:1;/*IE/7/6*/
+}
+.positionr{position: relative;}
+.positiona{position: absolute;}
+.hide{display: none;}
+.layout{width: 960px;margin:0 auto;}
+.logo{float: left;}
+.header-right{float: right;padding-top:20px;}
+.nav ul li{width:14%;float: left;/*font-size:16px;line-height:30px;font-weight:bold; font-family:'Microsoft Yahei', 'SimHei';*/font:bold 16px/30px 'Microsoft Yahei', 'SimHei';text-align: center;color: #898989;}
+.about{overflow: hidden;margin-bottom: 10px;}
+.about .about-left{float: left;width: 30%;}
+.about .about-left img{width: 100%;}
+.slider{float: left;width: 70%;position: relative;}
+.slider ul li{display: none;position: relative;margin-right: 10px;}
+.slider ul li img{width: 100%;}
+.slider ul li.current{display: block;}
+.slider .dot-wraper{position: absolute;right: 10px; bottom: 10px;}
+.slider .dot-wraper a{width: 15px;height: 15px;display: block;border:1px solid #fff;border-radius: 100%;float: left;background: #fff;margin-right: 10px;}
+.slider .dot-wraper a.current{border:1px solid blue;background: blue;}
+/*copy*/
+.slider1{float: left;width: 70%;position: relative;}
+.slider1 ul li{display: none;position: relative;margin-right: 10px;}
+.slider1 ul li img{width: 100%;}
+.slider1 ul li.current{display: block;}
+.slider1 .dot-wraper{position: absolute;right: 10px; bottom: 10px;}
+.slider1 .dot-wraper a{width: 15px;height: 15px;display: block;border:1px solid #fff;border-radius: 100%;float: left;background: #fff;margin-right: 10px;}
+.slider1 .dot-wraper a.current{border:1px solid blue;background: blue;}
+/*end*/
+.list{overflow: hidden;width: 100%;height: 300px;position: relative;}
+.list ul{position: absolute;left: 0}
+.list ul li{float: left;margin-right: 10px;}
+.btn a{color: #000;position: absolute;left: 0;font-size: 50px;color: blue;top: 50%;margin-top: -20px;}
+.btn a.right{left:auto;right: 10px;}

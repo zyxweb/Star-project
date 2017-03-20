@@ -1,0 +1,25 @@
+@media (min-width: 768px){
+	.navbar-default{background-color:#fff ;border-color: #fff;}
+	.header,.content{width:960px;margin: 0 auto;}
+	.nav{width:100%;}
+	.nav li{width:14%;/*font-size:16px;line-height:30px;font-weight:bold; font-family:'Microsoft Yahei', 'SimHei';*/font:bold 16px/30px 'Microsoft Yahei', 'SimHei';text-align: center;color: #898989;}
+	.paddingtop20{padding-top:20px;}
+}
+a:hover, a:focus{text-decoration: none;}
+li{list-style: none;padding: 0;margin: 0;}
+.navbar{margin-bottom: 0;}
+.padding0{padding-left: 0;padding-right: 0;}
+.padding0 .row{margin-left: 0;margin-right: 0;}
+.padding0 .col-xs-1, .padding0 .col-sm-1, .padding0 .col-md-1, .padding0 .col-lg-1, .padding0 .col-xs-2, .padding0 .col-sm-2, .padding0 .col-md-2, .padding0 .col-lg-2, .padding0 .col-xs-3, .padding0 .col-sm-3, .padding0 .col-md-3, .padding0 .col-lg-3, .padding0 .col-xs-4, .padding0 .col-sm-4, .padding0 .col-md-4, .padding0 .col-lg-4, .padding0 .col-xs-5, .padding0 .col-sm-5, .padding0 .col-md-5, .padding0 .col-lg-5, .padding0 .col-xs-6, .padding0 .col-sm-6, .padding0 .col-md-6, .padding0 .col-lg-6, .padding0 .col-xs-7, .padding0 .col-sm-7, .padding0 .col-md-7, .padding0 .col-lg-7, .padding0 .col-xs-8, .padding0 .col-sm-8, .padding0 .col-md-8, .padding0 .col-lg-8, .padding0 .col-xs-9, .padding0 .col-sm-9, .padding0 .col-md-9, .padding0 .col-lg-9, .padding0 .col-xs-10, .padding0 .col-sm-10, .padding0 .col-md-10, .padding0 .col-lg-10, .padding0 .col-xs-11, .padding0 .col-sm-11, .padding0 .col-md-11, .padding0 .col-lg-11, .padding0 .col-xs-12, .padding0 .col-sm-12, .padding0 .col-md-12, .padding0 .col-lg-12{padding-right: 0;padding-left: 0;}
+.slider .itembox{width: 100%;margin-bottom: 0;}
+.slider .itembox .item{display: none;width: 100%;}
+/*.slider ul li img{width: 100%;}*/
+.slider .itembox .item.current{display: block;}
+.slider .dot-wraper{position: absolute;right: 10px; bottom: 10px;}
+.slider .dot-wraper a{width: 15px;height: 15px;display: block;border:1px solid #fff;border-radius: 100%;float: left;background: #fff;margin-right: 10px;}
+.slider .dot-wraper a.current{border:1px solid blue;background: blue;}
+.list{overflow: hidden;width: 100%;position: relative;}
+.list .itembox{position: absolute;left: 0}
+.list .itembox .item{float: left;margin-right: 10px;}
+.btn a{color: #000;position: absolute;left: 0;font-size: 50px;color: blue;top: 50%;margin-top: -20px;}
+.btn a.right{left:auto;right: 10px;}
